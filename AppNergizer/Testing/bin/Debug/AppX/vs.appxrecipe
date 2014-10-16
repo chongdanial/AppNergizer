@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DANIAL</Machine>
+    <WindowsUser>Danial</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>DBAA876FF6333A325D1834BEDD1D9E0E0FCCC422B58143F1C6183321F4D58650</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5fef7c13-a0af-4565-959a-d0be3fdec427_1.0.0.0_neutral__nv1rq8x77a6tt</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5fef7c13-a0af-4565-959a-d0be3fdec427_nv1rq8x77a6tt!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5fef7c13-a0af-4565-959a-d0be3fdec427</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Danial</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Danial\Dropbox\HITB\AppNergizer\Testing\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-16T01:31:11.114</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Danial\Dropbox\HITB\AppNergizer\Testing\bin\Debug\Testing.exe">
+      <PackagePath>Testing.exe</PackagePath>
+      <Modified>2014-10-16T02:34:00.304</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danial\Dropbox\HITB\AppNergizer\Testing\bin\Debug\Testing.pdb">
+      <PackagePath>Testing.pdb</PackagePath>
+      <Modified>2014-10-16T02:34:00.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danial\Dropbox\HITB\AppNergizer\Testing\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-15T13:31:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danial\Dropbox\HITB\AppNergizer\Testing\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-15T13:31:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danial\Dropbox\HITB\AppNergizer\Testing\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-15T13:31:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danial\Dropbox\HITB\AppNergizer\Testing\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-15T13:31:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danial\Dropbox\HITB\AppNergizer\Testing\Images\Icon.png">
+      <PackagePath>Images\Icon.png</PackagePath>
+      <Modified>2014-10-15T13:31:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danial\Dropbox\HITB\AppNergizer\Testing\Images\timer-xxl.png">
+      <PackagePath>Images\timer-xxl.png</PackagePath>
+      <Modified>2014-10-15T13:12:05.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danial\Dropbox\HITB\AppNergizer\Testing\Images\BatteryImg.PNG">
+      <PackagePath>Images\BatteryImg.PNG</PackagePath>
+      <Modified>2014-10-15T07:19:35.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danial\Dropbox\HITB\AppNergizer\Testing\Images\minimalblue-timer-dribbble.gif">
+      <PackagePath>Images\minimalblue-timer-dribbble.gif</PackagePath>
+      <Modified>2014-10-15T09:23:15.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danial\Dropbox\HITB\AppNergizer\Testing\Sounds\correct.wav">
+      <PackagePath>Sounds\correct.wav</PackagePath>
+      <Modified>2013-09-29T13:20:04.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danial\Dropbox\HITB\AppNergizer\Testing\Sounds\Fail button.mp3">
+      <PackagePath>Sounds\Fail button.mp3</PackagePath>
+      <Modified>2014-10-15T08:46:03.622</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danial\Dropbox\HITB\AppNergizer\Testing\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-10-15T03:26:54.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danial\Dropbox\HITB\AppNergizer\Testing\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T08:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danial\Dropbox\HITB\AppNergizer\Testing\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-10-16T02:11:21.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Danial\Dropbox\HITB\AppNergizer\Testing\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-16T01:31:10.943</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
